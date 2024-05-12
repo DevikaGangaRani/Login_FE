@@ -1,0 +1,13 @@
+.FormContainer div {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+
+.FormContainer p {
+    font-weight: bold;
+    font-size: medium;
+    text-align: left;
+    margin: 10px;
+    width:60%;
+}
